@@ -3,7 +3,8 @@
 
 ## 逻辑回归
 
-
+sigmoid函数
+L(x) = -1/(m)
 ## 决策树
 
 ## XGboost
