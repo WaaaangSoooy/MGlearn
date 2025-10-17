@@ -3,7 +3,7 @@
 
 ## 逻辑回归
 
-sigmoid函数
+
 ## 决策树
 
 ## XGboost
